@@ -1,4 +1,4 @@
-# Getting Started with Machine Learning
+# Getting Started with Python programming language
 
 ## Environment
 
@@ -8,7 +8,7 @@
 - **Python** - Programming language used for machine learning.
 - **Miniconda** - Package and environment manager for Python.
 
-## Initialize the Environment
+## Initialize the environment
 
 Use **Miniconda** to manage **Python** packages and environments. Follow the steps below:
 
